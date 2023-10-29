@@ -3,9 +3,8 @@
 
 - 👋 Hi, I’m @matb987
 - 👀 I’m interested in Software development and networking
-- 💞️ I’m looking to collaborate on staffcore-laravel
 - 📫 How to reach me: discord: matthewb987#4046
-- Im Currently working on [My Bill manager](https://github.com/matb987/my-bill-manager)
+- Im Currently working on [My Bill manager](https://github.com/matb987/My_bill_manager)
 
 <!---
 matb987/matb987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
